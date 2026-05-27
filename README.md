@@ -242,12 +242,6 @@ Overall Accuracy:
 
 ---
 
-# 🖼️ Sample Inference Results
-
-> Add prediction collage / visualization here.
-
----
-
 # 🖼️ Inference Features
 
 The inference pipeline supports:
@@ -331,7 +325,3 @@ Potential future improvements include:
 - Real-time webcam inference
 
 ---
-
-# 👨‍💻 Authors
-
-Developed as part of a deep learning and computer vision internship/research project focused primarily on robust gender classification using ArcFace embeddings and multi-task learning.
